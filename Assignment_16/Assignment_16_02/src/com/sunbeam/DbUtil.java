@@ -9,7 +9,7 @@ public class DbUtil
 
 	public static final String DB_URL = "jdbc:mysql://localhost:3306/classwork";
 	public static final String DB_USER = "kd3_80109_AkashKakad";
-	public static final String DB_PASSWD = "maneger";
+	public static final String DB_PASSWD = " manager";
 	static {
 		try {
 			Class.forName(DB_DRIVER);
